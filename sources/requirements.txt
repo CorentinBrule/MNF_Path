@@ -1,0 +1,2 @@
+codepoints==1.0
+svg.path==4.0.2
