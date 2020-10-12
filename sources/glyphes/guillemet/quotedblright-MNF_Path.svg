@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 396 1000"
    id="svg6"
-   sodipodi:docname="quotedblright_ManifontGroteskBook.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="quotedblright-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:zoom="1.3350176"
-     inkscape:cx="228.94733"
+     inkscape:cx="98.986497"
      inkscape:cy="544.12985"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -49,8 +49,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750.00005)"
        id="g4">
@@ -64,8 +65,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     sodipodi:insensitive="true">
+     inkscape:label="skeleton"
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 124.572,78.2863 145.698,27.29805"
@@ -76,7 +78,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 108.59399,230.53435 26.57812,-19.01367 18.4668,-82.24609 L 150.06469,67.72576 135.135,52.79217 h -21.12304 l -14.9336,14.93164 v 21.12304 l 14.92969,14.9336 h 11.13867 l 22.49219,25.49414 -18.00586,79.93945 z m 153.4043,-0.97265 26.57812,-19.01367 18.4668,-82.2461 L 303.46899,66.7531 288.5393,51.81951 H 267.41625 L 252.48266,66.75115 V 87.8742 l 14.92969,14.93359 h 11.13867 l 22.49219,25.49414 -18.00586,79.93946 z"

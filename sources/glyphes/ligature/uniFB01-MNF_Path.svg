@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 607 1000"
    id="svg6"
-   sodipodi:docname="uniFB01_ManifontGroteskBook-travail.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="uniFB01-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="false"
      inkscape:zoom="0.6675088"
-     inkscape:cx="183.82953"
-     inkscape:cy="615.09245"
+     inkscape:cx="120.15996"
+     inkscape:cy="408.3536"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -71,7 +71,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -186,30 +186,15 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 207.4998,749.9998 1e-4,-450.9999 L 164,264.5 H 86 l 78,-3.2576 43.4999,-31.2425 v -26 l 26.8989,-97.9313 86.77625,-34.37645 69.8057,12.65825 -69.46392,-10.23496 -84.72655,34.05684 -26.86355,95.77183 -0.19167,26.05578 41.26474,34.49991 h 246 v 485.5 l -2.62944,-483.4841 -243.37056,0.15734 -41.12162,32.32685 z"
-       id="path865"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 469.08925,77.69632 0.11133,24.90379 16.1035,17.52245 22.6626,-0.12256 15.9448,-17.69629 -0.11133,-24.90381 -16.1035,-17.52244 -22.6626,0.12255 z"
-       id="path867"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="path1758-5"
-       style="display:inline;opacity:0.493;fill:none;stroke:#ff0000;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 492.60588,100.40722 7.8297,1.6e-4 5.50926,-6.029414 0.0134,-8.61203 -5.61611,-6.17313 -7.82971,-1.7e-4 -5.46692,6.15644 -0.003,8.60425 z M 207.4998,714.41974 204.49989,298.99991 164,267.5 l -42.24788,-3 42.24788,-3 40.49989,-31.50009 8.2e-4,-25.93106 27.6456,-99.98167 88.60978,-35.36558 35.26703,8.743205 -34.42911,-2.802115 -84.94271,33.38734 -26.15222,95.88092 8.1e-4,26.06894 40.49991,31.4999 248.38078,1.17475 -2.38078,451.7452 -2.38078,-448.09467 -243.61922,1.17472 -40.49991,31.5001 z" />
+       style="display:inline;opacity:0.49300005;fill:none;stroke:#ff0000;stroke-width:18.89760017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 492.60588,100.40722 7.8297,1.6e-4 5.50926,-6.029414 0.0134,-8.61203 -5.61611,-6.17313 -7.82971,-1.7e-4 -5.46692,6.15644 -0.003,8.60425 z M 207.4998,714.41974 204.49989,298.99991 164,267.5 l -42.24788,-3 42.24788,-3 40.49989,-31.50009 8.2e-4,-25.93106 27.6456,-99.98167 88.60978,-35.36558 35.26703,8.743205 -34.42911,-2.802115 -84.94271,33.38734 -26.15222,95.88092 8.1e-4,26.06894 40.49991,31.4999 248.38078,1.17475 -2.38078,451.7452 -2.38078,-448.09467 -243.61922,1.17472 -40.49991,31.5001 z"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

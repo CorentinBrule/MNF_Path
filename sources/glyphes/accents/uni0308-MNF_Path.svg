@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 1000 1000"
    id="svg6"
-   sodipodi:docname="dieresis_ManifontGroteskPath0.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="uni0308-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,16 +35,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="0.84399997"
-     inkscape:cx="347.10027"
-     inkscape:cy="338.31771"
+     inkscape:zoom="1.6879999"
+     inkscape:cx="404.11108"
+     inkscape:cy="613.72592"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="false"
@@ -62,17 +62,19 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="layer 1"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 388.30762,49.57617 23.3904,61.44922"
-       id="path842" />
+       id="path842"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 611.53786,111.02539 588.14746,49.57617"
-       id="path844" />
+       id="path844"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

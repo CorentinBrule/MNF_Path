@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 400 1000"
    id="svg6"
-   sodipodi:docname="quotedblleft_ManifontGroteskBook.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="quotedblleft-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,24 +35,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:zoom="1.3350176"
-     inkscape:cx="222.19707"
+     inkscape:cx="92.236237"
      inkscape:cy="448.23531"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,749.99995)"
        id="g4">
@@ -66,8 +67,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     sodipodi:insensitive="true">
+     inkscape:label="skeleton"
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 118.56645,208.4087 97.44,259.39695"
@@ -82,19 +84,23 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="structure">
+     inkscape:label="structure"
+     sodipodi:insensitive="true">
     <path
-       style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:18.89760017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 287.545,56.158955 -26.578,19.014 -18.467,82.245995 3.574,61.549 14.93,14.933 h 21.123 l 14.934,-14.931 v -21.123 l -14.93,-14.934 h -11.139 l -22.492,-25.494 18.006,-79.939995 z m -153.404,0.973 -26.579,19.013 -18.4663,82.246995 3.5742,61.548 14.9301,14.934 h 21.123 l 14.933,-14.932 v -21.123 l -14.929,-14.933 h -11.139 l -22.4923,-25.494 18.0063,-79.939995 z"
-       id="path880" />
+       id="path880"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="optique">
+     inkscape:label="optique"
+     sodipodi:insensitive="true">
     <path
-       style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:71.811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:71.81099701;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 287.545,56.156955 -26.578,19.016 -18.467,82.245995 3.574,61.549 14.93,14.933 h 21.123 l 14.934,-14.931 v -21.123 l -14.93,-14.934 h -11.139 l -22.492,-25.494 18.006,-79.939995 z m -153.404,0.973 -26.579,19.015 -18.4663,82.244995 3.5742,61.55 14.9301,14.932 h 21.125 l 14.931,-14.93 v -21.123 l -14.929,-14.933 h -11.139 l -22.4923,-25.496 18.0063,-79.939995 z"
-       id="path859-7" />
+       id="path859-7"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

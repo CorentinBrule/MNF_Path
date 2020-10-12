@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 396 1000"
    id="svg6"
-   sodipodi:docname="quotedblbase_ManifontGroteskBook.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="quotedblbase-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -22,18 +22,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:zoom="5.3400704"
-     inkscape:cx="235.06264"
-     inkscape:cy="56.34116"
+     inkscape:zoom="1.888"
+     inkscape:cx="139.90615"
+     inkscape:cy="29.062012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer2" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -50,9 +50,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -66,7 +66,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path
@@ -96,7 +96,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="optique">
+     inkscape:label="optique"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:0.5;fill:none;stroke:#fc0000;stroke-width:71.8110199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 265.45117,673.51953 -14.93164,14.93164 v 21.12305 l 14.92969,14.93359 h 11.13867 l 22.49219,25.49419 -18.00586,79.9414 -21.03906,21.3203 26.57812,-19.0157 18.4668,-82.246 -3.57422,-61.54888 -14.92969,-14.93359 z m -150.16601,0.97266 -14.93164,14.92969 v 21.12304 l 14.92968,14.93555 h 11.13868 l 22.49218,25.49413 -18.00586,79.9395 -21.03906,21.3203 26.57813,-19.0137 18.46679,-82.2461 -3.57422,-61.55077 -14.92968,-14.93164 z"
