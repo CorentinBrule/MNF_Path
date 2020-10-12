@@ -77,7 +77,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
@@ -90,7 +90,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="pathmax"
+     inkscape:label="optique"
      sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"

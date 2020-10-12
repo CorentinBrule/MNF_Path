@@ -207,7 +207,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      style="display:inline">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0606;stroke-width:18.8976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -218,7 +218,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="pathmax"
+     inkscape:label="optique"
      style="display:inline">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0606;stroke-width:71.811;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

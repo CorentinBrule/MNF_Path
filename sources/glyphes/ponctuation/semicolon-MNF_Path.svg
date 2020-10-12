@@ -157,7 +157,7 @@
      sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      style="display:inline">
     <path
        sodipodi:nodetypes="cccccccccccccccccccccc"
@@ -169,7 +169,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="pathmax"
+     inkscape:label="optique"
      style="display:inline"
      sodipodi:insensitive="true">
     <path

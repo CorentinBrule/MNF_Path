@@ -49,7 +49,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
@@ -61,7 +61,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="pathmax"
+     inkscape:label="optique"
      style="display:inline">
     <path
        fill="currentColor"

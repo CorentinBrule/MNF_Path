@@ -124,7 +124,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      sodipodi:insensitive="true"
      style="display:inline">
     <path
@@ -136,7 +136,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="pathmax">
+     inkscape:label="optique">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:71.81102362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 277.97225,732.2529 143.675,-61.0737 58.3589,-181.1455 -58.32715,-181.1835 -143.707,-61.0781 -143.60885,61.0782 -58.2964,181.1835 58.2959,181.1625 z"

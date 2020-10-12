@@ -47,14 +47,14 @@ def get_svg_layer(xml, layerName):
             return g
 
 
-def interpolate_paths(pathmin, pathmax, step):
-    parsed_pathmin = parse_path(pathmin)
-    parsed_pathmax = parse_path(pathmax)
+def interpolate_paths(structure, optique, step):
+    parsed_structure = parse_path(structure)
+    parsed_optique = parse_path(optique)
     parsed_pathinter = Path()
-    if len(parsed_pathmin) == len(parsed_pathmax):
-        for i in range(len(parsed_pathmin)):
-            e_min = parsed_pathmin[i]
-            e_max = parsed_pathmax[i]
+    if len(parsed_structure) == len(parsed_optique):
+        for i in range(len(parsed_structure)):
+            e_min = parsed_structure[i]
+            e_max = parsed_optique[i]
             if type(e_min) == type(e_max):
                 if type(e_min) == Move:
                     parsed_pathinter.append(Move(to=lerp(e_min.start, e_max.start, step)))
@@ -74,7 +74,7 @@ def interpolate_paths(pathmin, pathmax, step):
                 exit()
         return parsed_pathinter
     else:
-        print("number of path element not similar : "+str(len(parsed_pathmin))+" != "+str(len(parsed_pathmax)))
+        print("number of path element not similar : "+str(len(parsed_structure))+" != "+str(len(parsed_optique)))
 
 
 def lerp(pA, pB, v, m=0, M=1):
@@ -153,10 +153,10 @@ def build_interpolated_fonts(svg_files, original_font_file, individual_glyph_fol
         svg_dom = svg_dom.getElementsByTagName("svg")[0]
 
         # get contours on svg file
-        layerMin = get_svg_layer(svg_dom, "pathmin")
-        layerMax = get_svg_layer(svg_dom, "pathmax")
+        layerMin = get_svg_layer(svg_dom, "structure")
+        layerMax = get_svg_layer(svg_dom, "optique")
 
-        # print(pathmin.toxml("utf-8"))
+        # print(structure.toxml("utf-8"))
         # print(svglyphlayers[0].getAttribute("inkscape:label"))
 
         ''' find glyph name and its codepoint '''
@@ -180,17 +180,17 @@ def build_interpolated_fonts(svg_files, original_font_file, individual_glyph_fol
             for j, elementMin in enumerate(layerMin.getElementsByTagName("path")):
                 tmp_element = elementMin.cloneNode(1)
 
-                pathMin = layerMin.getElementsByTagName("path")[j]
-                pathMax = layerMax.getElementsByTagName("path")[j]
+                structure = layerMin.getElementsByTagName("path")[j]
+                optique = layerMax.getElementsByTagName("path")[j]
 
-                if pathMin.getAttribute("transform") or pathMax.getAttribute("transform"):
+                if structure.getAttribute("transform") or optique.getAttribute("transform"):
                     print("Warning, there is a translation in this path !")
                     #exit()
 
-                dMin = pathMin.getAttribute("d")
-                dMax = pathMax.getAttribute("d")
-                #print(pathMin)
-                #print(pathMax)
+                dMin = structure.getAttribute("d")
+                dMax = optique.getAttribute("d")
+                #print(structure)
+                #print(optique)
                 print("--------- interpolate ---------")
                 interpolated_path = interpolate_paths(dMin, dMax, style_step).d()  # temporaire
 

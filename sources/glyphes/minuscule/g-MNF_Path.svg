@@ -227,7 +227,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="pathmin"
+     inkscape:label="structure"
      style="display:inline;opacity:0.92"
      sodipodi:insensitive="true">
     <path
@@ -240,7 +240,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="pathmax"
+     inkscape:label="optique"
      style="display:inline">
     <path
        style="display:inline;opacity:0.513;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:71.811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
