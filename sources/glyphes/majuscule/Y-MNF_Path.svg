@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 675 1000"
    id="svg6"
-   sodipodi:docname="Y_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="Y-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="false"
-     inkscape:zoom="0.944"
-     inkscape:cx="66.451328"
-     inkscape:cy="310.95395"
+     inkscape:zoom="0.6675088"
+     inkscape:cx="158.33473"
+     inkscape:cy="392.87571"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -70,8 +70,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     style="display:inline"
+     inkscape:label="skeleton"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -109,21 +109,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 337.5,750 V 447 L 316,407.0001 78,46.4546 317.96548,403.97629 H 361.8747 L 599.5,46.4546 363.5,407.0001 340.07042,447 Z"
-       id="path845"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 97.796568,76.473822 317.63497,404.48477 362.07968,404.35765 579.82365,76.560139 364.92031,409.64253 340.5,447 337.5,714.24788 334.5,447 314.36504,409.51542 Z"

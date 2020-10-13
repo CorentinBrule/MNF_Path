@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 657 1000"
    id="svg6"
-   sodipodi:docname="E_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="E-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:object-paths="false"
      inkscape:snap-midpoints="true"
      inkscape:zoom="0.472"
-     inkscape:cx="196.90463"
+     inkscape:cx="-170.68012"
      inkscape:cy="501.96147"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,7 +53,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -69,8 +69,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     style="display:inline"
+     inkscape:label="skeleton"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -130,21 +130,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 587,707.5 H 127.5 V 72.5 H 577 L 132.91879,77.34839 132.58252,340 175,382.5 H 527 L 175,388.58154 129.50212,425 131.1266,704.25515 Z"
-       id="path853"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#ff1414;stroke-width:22.67716599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 541.24788,72.499998 125.26432,70.49965 v 639.0007 L 551.24788,707.5 129.73568,705.49965 130.5,425 175,385.5 491.24788,382.5 175,379.5 130.5,340 129.73568,74.500347 Z"
@@ -156,7 +145,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="optique"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <path
        style="opacity:0.5;fill:none;stroke:#ff1414;stroke-width:71.8110199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 541.24788,72.499998 125.26432,70.499648 V 709.50035 L 551.24788,707.5 129.73568,705.49965 130.5,425 l 0.68035,-39.5 360.06753,-3 -360.06753,-3 L 130.5,340 129.73568,74.500338 Z"

@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 556 1000"
    id="svg6"
-   sodipodi:docname="dollar_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="dollar-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-midpoints="true"
-     inkscape:zoom="0.472"
-     inkscape:cx="-73.929989"
-     inkscape:cy="376.15465"
+     inkscape:zoom="0.3337544"
+     inkscape:cx="-340.21182"
+     inkscape:cy="175.59607"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -68,7 +68,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path
@@ -222,7 +222,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 431.96393,194.76657 409.74861,107.65633 310.98223,55.49019 276.50894,17.96698 273.4255,-33.98305 270.50894,17.96702 236.02945,58.4906 146.381,100.8314 l -36.9424,111.68185 24.72755,85.79625 101.86325,64.18895 37.563,56.991 v 264.025 l -37.47983,36.52229 -108.07,-60.07849 -28.364103,-90.65017 23.708663,94.43508 112.7254,62.29358 34.48004,37.48476 2.99973,50.55232 2.99999,-50.51222 34.47986,-39.5223 114.45005,-43.40575 44.52295,-123.84395 -39.96775,-108.81525 -119.0055,-64.5056 -37.563,-56.991 v -227.464 l 37.48567,-37.52364 94.48552,50.38266 z"

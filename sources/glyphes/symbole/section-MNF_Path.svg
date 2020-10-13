@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 493 1000"
    id="svg6"
-   sodipodi:docname="section_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="section-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,25 +36,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-others="false"
-     inkscape:zoom="0.6675088"
-     inkscape:cx="146.36061"
-     inkscape:cy="359.4467"
+     inkscape:zoom="0.472"
+     inkscape:cx="-46.728277"
+     inkscape:cy="309.29275"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -68,7 +69,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -278,7 +279,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 100.89852,638.07397 28.26544,50.35963 120.49644,36.14495 108.37504,-24.26247 51.99212,-87.89234 -6.1887,-29.71142 -24.99637,-40.08793 -61.80539,-28.06624 -137.07831,-37.02145 -67.2622,-36.59619 -29.71045,-71.9248 16.13425,-49.64066 39.3975,-31.32275 3.91109,-42.86072 L 98.400406,215.00123 79.922704,164.38735 125.23555,77.78314 239.94832,49.5228 352.45301,82.43156 371.87531,126.52984 347.87939,86.31495 239.78838,55.5206 129.34085,82.15866 l -43.437904,81.88539 18.086544,48.77522 43.45874,29.08504 106.21956,37.14324 105.60725,40.61086 27.7085,16.36374 26.1504,75.51855 -12.13184,46.1929 -27.8911,30.80955 9.37071,49.31096 25.69011,40.70798 7.83743,33.53068 -53.39929,92.10565 -113.18936,26.37525 -124.4151,-37.81504 z"

@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 239 1000"
    id="svg6"
-   sodipodi:docname="exclamdown_ManifontGroteskBook.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="exclamdown-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,25 +35,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="0.6675088"
-     inkscape:cx="33.686134"
-     inkscape:cy="804.4344"
+     inkscape:zoom="0.472"
+     inkscape:cx="30.248315"
+     inkscape:cy="427.40934"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -67,7 +68,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path
@@ -135,12 +136,14 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="structure">
+     inkscape:label="structure"
+     sodipodi:insensitive="true">
     <path
-       style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89760017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 108.395,249.826 -16.1411,18.176 -0.0098,25.4 16.4259,17.873 h 23.115 l 16.264,-17.798 0.041,-25.426 -16.58,-18.225 z M 118.99,440.384 95.4668,937.62 h 47.7482 z"
        id="path890"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

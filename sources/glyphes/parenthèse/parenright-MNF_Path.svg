@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 311 1000"
    id="svg6"
-   sodipodi:docname="parenright_ManifontGroteskBook.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="parenright-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,15 +35,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.472"
-     inkscape:cx="-623.44213"
-     inkscape:cy="485.94132"
+     inkscape:cx="-63.060774"
+     inkscape:cy="346.11081"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -51,7 +51,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -67,7 +67,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path
@@ -86,7 +86,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89763832;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 74.036554,813.53531 167.6711,639.00165 211.8582,390.01305 167.67104,141.07206 74.026644,-33.506043 173.65866,140.68804 217.8582,390.01305 173.6586,639.38745 Z"

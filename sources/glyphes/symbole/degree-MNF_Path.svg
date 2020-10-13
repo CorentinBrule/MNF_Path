@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 360 1000"
    id="svg6"
-   sodipodi:docname="degree_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="degree-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,22 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:zoom="0.944"
-     inkscape:cx="41.830361"
-     inkscape:cy="631.17008"
+     inkscape:cx="-46.623029"
+     inkscape:cy="567.61076"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -65,7 +66,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path

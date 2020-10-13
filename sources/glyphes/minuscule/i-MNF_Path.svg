@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 220 1000"
    id="svg6"
-   sodipodi:docname="i_ManifontGroteskBook-travail.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="i-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,19 +36,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:zoom="0.6675088"
-     inkscape:cx="-117.95252"
-     inkscape:cy="775.04535"
+     inkscape:cx="-132.10077"
+     inkscape:cy="360.1725"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
@@ -58,7 +58,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -73,33 +73,17 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
+     id="layer6"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 110,750 V 230 l 1.75847,520 z"
-       id="path842"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 110.02702,112.33466 82.05442,69.06002 109.75169,50.88496 137.88942,69.10981 Z"
-       id="path819"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Layer 3"
-     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 65,490 h 90"
        id="path1563"
        inkscape:connector-curvature="0" />
     <circle
-       style="opacity:0.56;vector-effect:none;fill:#f4d7d7;fill-opacity:1;stroke:#00ff00;stroke-width:71.811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.56000001;vector-effect:none;fill:#f4d7d7;fill-opacity:1;stroke:#00ff00;stroke-width:71.81099701;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1565"
        cx="110"
        cy="490"
@@ -127,17 +111,20 @@
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 116.98661,100.17355 133.28,143.06"
-       id="path872" />
+       id="path872"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="path1568"
-       style="opacity:0.543;fill:none;stroke:#ff0000;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 105.97932,71.203205 -5.467,6.156 -0.004,8.604 5.564,6.055 h 7.83 l 5.508,-6.03 0.014,-8.613 -5.615,-6.172 z m 4.021,194.643005 -3,224.154 3,223.982 3,-223.982 z" />
+       style="opacity:0.54299999;fill:none;stroke:#ff0000;stroke-width:18.89760017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.97932,71.203205 -5.467,6.156 -0.004,8.604 5.564,6.055 h 7.83 l 5.508,-6.03 0.014,-8.613 -5.615,-6.172 z m 4.021,194.643005 -3,224.154 3,223.982 3,-223.982 z"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

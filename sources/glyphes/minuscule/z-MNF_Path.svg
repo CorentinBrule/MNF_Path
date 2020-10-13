@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 499 1000"
    id="svg6"
-   sodipodi:docname="z_ManifontGroteskBook-travail.svg"
-   inkscape:version="1.0.1 (1.0.1+r73)">
+   sodipodi:docname="z-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="false"
      inkscape:zoom="0.472"
-     inkscape:cx="273.25158"
+     inkscape:cx="-461.91791"
      inkscape:cy="384.54179"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,7 +56,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -72,11 +72,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <circle
-       style="opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650"
        cx="347"
        cy="267.5"
@@ -102,19 +102,19 @@
        id="path3658"
        inkscape:connector-curvature="0" />
     <circle
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650-1"
        cx="400"
        cy="305"
        r="3" />
     <circle
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650-8"
        cx="90.5"
        cy="675"
        r="3" />
     <circle
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650-7"
        cx="141"
        cy="712.5"
@@ -125,13 +125,13 @@
        id="path3692"
        inkscape:connector-curvature="0" />
     <circle
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650-6"
        cx="400"
        cy="267.5"
        r="3" />
     <circle
-       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.2575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:6.25750017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3650-7-7"
        cx="90.5"
        cy="712.5"
@@ -139,27 +139,17 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 40,750 141,675"
-       id="path894" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 459,712.5 H 90.5 V 675 L 400,305 V 267.5 H 59 L 409.5992,260.70811 408.36864,305 95.868644,675 l -0.0051,33.51716 z"
-       id="path847"
+       id="path894"
        inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:22.6772;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:22.67720032;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 422.99586,712.5 141,715.5 87.5,675 397,305 347,270.5 95.142629,267.5 347,264.5 403,305 93.5,675 141,709.5 Z"
        id="path3694"
        inkscape:connector-curvature="0"

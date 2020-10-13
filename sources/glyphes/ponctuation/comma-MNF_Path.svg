@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 246 1000"
    id="svg6"
-   sodipodi:docname="comma_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="comma-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="false"
      inkscape:zoom="1.3350176"
-     inkscape:cx="8.3288386"
-     inkscape:cy="6.144989"
+     inkscape:cx="-37.73797"
+     inkscape:cy="108.01631"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -69,7 +69,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -122,21 +122,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 100.47309,709.12484 v -21.12305 l 14.9326,-14.93065 h 21.124 l 14.9302,14.9326 0.57401,61.54995 -18.23635,81.09281 -51.32715,43.1577 49.75228,-43.8133 17.93621,-80.43713 -34.7556,-25.49438 z"
-       id="path863"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#fc0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 109.98889,850.81398 26.57823,-19.01458 18.46679,-82.24569 -3.57402,-61.54997 -14.9302,-14.9326 h -21.124 l -14.9326,14.93065 v 21.12305 l 14.9302,14.93455 h 11.1377 l 22.49292,25.49442 -18.00595,79.93979 z"

@@ -7,26 +7,26 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="semicolon_ManifontGroteskBook-travail.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="semicolon-MNF_Path.svg"
    id="svg6"
    viewBox="0 -250 231 1000"
    version="1.1">
   <sodipodi:namedview
      inkscape:snap-object-midpoints="true"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="280.46069"
-     inkscape:cx="99.693394"
+     inkscape:cx="-145.67266"
      inkscape:zoom="0.70710678"
      inkscape:object-paths="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      showgrid="false"
      id="namedview8"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -61,9 +61,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -77,7 +77,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      sodipodi:insensitive="true"
      style="display:none">
     <path
@@ -134,23 +134,6 @@
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 119.34796,699.98399 170.3338,750.9727"
        id="path870"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 76.16095,875.2232 51.0176,-43.1567 18.23635,-81.0919 -0.57402,-25.49626 v -36.05472 l -14.9302,-14.93262 -21.124,10e-4 -14.9326,14.9297 v 21.12305 l 14.9302,14.93454 34.88803,-1.16958 0.26307,26.66489 -18.12258,80.5233 z"
-       id="path873"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 104.33044,386.17441 23.11525,4.9e-4 16.26468,-17.8003 0.04,-25.4248 -16.5801,-18.2246 -23.11525,-4.8e-4 -16.13965,18.17529 -0.01123,25.40186 z"
-       id="path831"
        inkscape:connector-curvature="0" />
   </g>
   <g

@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 675 1000"
    id="svg6"
-   sodipodi:docname="yen_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="yen-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,24 +36,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:zoom="0.472"
-     inkscape:cx="667.0053"
+     inkscape:cx="299.42055"
      inkscape:cy="335.50484"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
-     sodipodi:insensitive="true">
+     inkscape:label="base"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        transform="matrix(1,0,0,-1,0,750)"
        id="g4">
@@ -67,7 +68,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -195,7 +196,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:#ff0000;stroke:#ff0f00;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 337.5,714.41994 340.5,642 385,607.5 499.04542,604.5 385,601.5 340.5,567 V 512 L 387.76077,477.49039 499.04542,474.5 388.23923,471.50961 340,437 368.22036,404.45775 578.23824,78.212837 364.77963,399.54243 314.43341,399.70623 99.216876,77.935484 310.56659,404.29396 334,437 286.22122,471.51304 176.32911,474.5 286.77878,477.48696 334.5,512 v 55 l -44.5,34.5 -113.67089,3 113.67089,3 44.5,34.5 z"

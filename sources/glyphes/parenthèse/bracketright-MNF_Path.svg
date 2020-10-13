@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 337 1000"
    id="svg6"
-   sodipodi:docname="bracketright_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="bracketright-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,25 +36,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="false"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
      inkscape:zoom="0.472"
-     inkscape:cx="-391.81873"
-     inkscape:cy="223.96988"
+     inkscape:cx="-350.50517"
+     inkscape:cy="306.597"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-intersection-paths="true" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -70,7 +70,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -98,18 +98,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40,807.5 h 169.5 v -835 H 40 l 164.702,4.29295 V 803.2071 Z"
-       id="path847"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="structure"
      sodipodi:insensitive="true">
@@ -123,7 +111,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="optique">
+     inkscape:label="optique"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:0.5;fill:none;stroke:#ff0000;stroke-width:71.8110199;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 75.881544,-27.499997 135.781096,-2.00035 V 809.50027 l -135.781096,-2.0003 131.309736,-2.0003 V -25.499647 Z"

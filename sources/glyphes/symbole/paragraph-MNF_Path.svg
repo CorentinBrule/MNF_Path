@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 556 1000"
    id="svg6"
-   sodipodi:docname="paragraph_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="paragraph-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-intersection-paths="true"
@@ -45,17 +45,17 @@
      inkscape:snap-others="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:zoom="0.472"
-     inkscape:cx="327.73519"
-     inkscape:cy="139.36656"
+     inkscape:cx="44.896207"
+     inkscape:cy="423.26487"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:object-nodes="true" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -71,7 +71,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
+     inkscape:label="skeleton"
      style="display:none"
      sodipodi:insensitive="true">
     <path
@@ -164,7 +164,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="structure"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 251.0115,814.03182 248.51151,334.065 210.947,235.80643 l -71.1805,-26.8252 -28.11915,-72.121 33.2754,-79.1215 L 210.947,39.289285 270.74924,-30.0172 H 380.0438 l 82.9648,0.0415 50.85522,1.970339 L 463.0086,-24.9757 424.02621,15.009701 421.5262,814.07312 419.02621,15.0072 380.0438,-25.017201 271.82827,-25.262053 251.0115,14.9657 253.51151,334.065 Z"

@@ -10,8 +10,8 @@
    version="1.1"
    viewBox="0 -250 698 1000"
    id="svg6"
-   sodipodi:docname="K_ManifontGroteskBook-travail.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="K-MNF_Path.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:object-paths="false"
      inkscape:zoom="0.6675088"
-     inkscape:cx="325.17919"
+     inkscape:cx="65.257523"
      inkscape:cy="324.33544"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer15"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="false"
@@ -55,7 +55,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Layer 1"
+     inkscape:label="base"
      sodipodi:insensitive="true"
      style="display:inline">
     <g
@@ -71,8 +71,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     style="display:inline">
+     inkscape:label="skeleton"
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 274,407.9998 65,-67"
@@ -152,18 +153,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <path
-       id="path853"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 127.5,750 V 30 L 131.0911,398 175,454.9999 556.5,51.9544 312.0159,314.0157 306.5,374.4998 l 272,354 L 303.55295,377.53753 247.70127,381.70107 175,458.61807 130.33536,511.9998 Z"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="structure"
      style="display:inline"
@@ -179,7 +168,8 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="optique"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <path
        style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:71.8110199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 127.5,714.04542 V 66.016949 l 6,365.690471 L 175,451.99991 532.09499,77.740581 312.3071,314.3069 286.58892,342.34661 556.41125,699.74508 282.4111,346.65298 248.04007,382.03987 175,457.99991 133.5,511.99979 Z"
